@@ -1,11 +1,4 @@
-# Students Performance Factors Analysis
-
-## Deskripsi
-Berikut versi yang lebih ringkas:  
-
----
-
-## Enhancing Student Exam Performance 📚  
+# Students Performance Factors Analysis 📚  
 
 This project focuses on improving student exam scores, particularly for those who have not achieved the passing grade (75 out of 100). Using the SMART framework, the goal is to optimize internal factors such as study hours, tutoring sessions, and class attendance to boost academic performance within 3 months, evaluated during the midterm exams.  
 
